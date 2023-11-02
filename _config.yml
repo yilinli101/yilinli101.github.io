@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Yilin Li"
 title_separator          : "-"
 name                     : &name "Yilin Li"
-description              : &description "personal description"
-url                      : https://yilinli101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I am now a master student majoring in Statistics at UC Berkeley."
+url                      : https://yilinli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yilinli101/yilinli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
