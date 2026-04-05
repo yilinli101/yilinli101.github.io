@@ -6,34 +6,23 @@
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/yilinli101">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20me-111111?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:chloeliyilin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</div>
-
 <p align="center">
-  <strong>PhD Student in Statistics @ UC Davis</strong><br />
-  Statistics, machine learning, and thoughtful research-driven building
+  <strong>PhD Student in Statistics, University of California, Davis</strong><br />
+  Statistics • Machine Learning • Data-Driven Research
 </p>
 
 ## About Me
 
-I am a PhD student in Statistics at UC Davis with a background across statistics, data science, and computation. I enjoy working on problems that sit between rigorous methodology and practical impact.
+I am a PhD student in Statistics at UC Davis. My academic background spans statistics, data science, and computation, and I am interested in research that combines methodological rigor with practical relevance.
 
-- Current role: PhD Student in Statistics at UC Davis
-- Academic interests: statistics, machine learning, and data-driven research
-- Based in: California
-- Open to: academic collaborations, research conversations, and interesting projects
+I completed my bachelor's degree at Southern University of Science and Technology and my master's degree at UC Berkeley.
 
-## What I Care About
+## Research Interests
 
-- Clear statistical thinking
-- Research with real-world relevance
-- Building useful tools to support learning and discovery
+- Statistical methodology
+- Machine learning
+- Data analysis
+- Computational methods for research
 
 ## Education
 
@@ -46,30 +35,13 @@ I am a PhD student in Statistics at UC Davis with a background across statistics
 - **Southern University of Science and Technology (SUSTech)**  
   Bachelor's degree
 
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=ffffff" alt="R" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/Statistics-23403B?style=flat-square&logo=databricks&logoColor=ffffff" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-D57A66?style=flat-square&logo=tensorflow&logoColor=ffffff" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
-</p>
-
-## Research Interests
-
-- Statistical methodology
-- Machine learning
-- Data analysis
-- Computational research workflows
-
 ## Selected Work
 
-I am currently organizing projects, papers, and research work to feature here.
+I am currently organizing projects, papers, and research materials to feature here.
+
+## Tools
+
+`R` `Python` `Statistics` `Machine Learning` `Data Analysis` `Git`
 
 ## GitHub Stats
 
@@ -90,7 +62,7 @@ Focus: Statistics, machine learning, research
 
 ## Let's Connect
 
-If you would like to connect about research, statistics, machine learning, or collaboration opportunities, feel free to reach out.
+If you would like to connect about research, statistics, or collaboration opportunities, feel free to reach out.
 
 - GitHub: `https://github.com/yilinli101`
 - Email: `chloeliyilin@gmail.com`

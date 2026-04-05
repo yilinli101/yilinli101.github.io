@@ -1,13 +1,11 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="320" rx="28" fill="#F6EFE6"/>
-  <circle cx="1028" cy="84" r="182" fill="#E9D1B5"/>
-  <circle cx="1140" cy="254" r="152" fill="#D57A66"/>
-  <circle cx="923" cy="298" r="104" fill="#23403B"/>
-  <rect x="68" y="58" width="286" height="34" rx="17" fill="#23403B"/>
-  <text x="68" y="144" fill="#111111" font-family="Georgia, Times New Roman, serif" font-size="60" font-weight="700">Yilin Li</text>
-  <text x="68" y="190" fill="#4A4A4A" font-family="Arial, Helvetica, sans-serif" font-size="24">Building thoughtful products and clean experiences.</text>
-  <text x="68" y="230" fill="#4A4A4A" font-family="Arial, Helvetica, sans-serif" font-size="24">Code, design, curiosity, and a bias toward shipping.</text>
-  <text x="84" y="82" fill="#F6EFE6" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">GITHUB PROFILE</text>
-  <rect x="68" y="252" width="150" height="18" rx="9" fill="#D57A66"/>
-  <rect x="230" y="252" width="110" height="18" rx="9" fill="#E9D1B5"/>
+  <rect width="1200" height="320" rx="28" fill="#F7F5F0"/>
+  <rect x="72" y="72" width="4" height="176" fill="#1F3B57"/>
+  <circle cx="1015" cy="105" r="168" fill="#E4E0D7"/>
+  <circle cx="1080" cy="246" r="112" fill="#C8D1DB"/>
+  <circle cx="925" cy="272" r="88" fill="#8FA6B8"/>
+  <text x="108" y="116" fill="#1F3B57" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">ACADEMIC PROFILE</text>
+  <text x="108" y="168" fill="#111111" font-family="Georgia, Times New Roman, serif" font-size="58" font-weight="700">Yilin Li</text>
+  <text x="108" y="212" fill="#3F4A56" font-family="Arial, Helvetica, sans-serif" font-size="24">PhD Student in Statistics at UC Davis</text>
+  <text x="108" y="248" fill="#3F4A56" font-family="Arial, Helvetica, sans-serif" font-size="24">Statistics, machine learning, and data-driven research</text>
 </svg>
