@@ -6,7 +6,7 @@ subtitle: PhD Student in Statistics, University of California, Davis
 
 profile:
   align: right
-  image:
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong>Department of Statistics</strong></p>
