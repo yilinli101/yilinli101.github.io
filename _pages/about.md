@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student in Statistics, University of California, Davis
 
@@ -9,9 +9,9 @@ profile:
   image:
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Statistics</p>
+    <p><strong>Department of Statistics</strong></p>
     <p>University of California, Davis</p>
-    <p>chloeliyilin@gmail.com</p>
+    <p><a href="mailto:chloeliyilin@gmail.com">chloeliyilin@gmail.com</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +27,31 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Statistics at UC Davis. My interests lie broadly in statistics, machine learning, and data-driven research. I am particularly drawn to work that combines methodological rigor with practical relevance.
+<div class="academic-home">
+  <p class="lead">
+    I am a PhD student in Statistics at UC Davis. My interests lie broadly in statistics, machine learning, and data-driven research, especially work that combines methodological rigor with practical relevance.
+  </p>
 
-Before starting my PhD, I completed my master's degree at UC Berkeley and my bachelor's degree at the Southern University of Science and Technology (SUSTech).
+  <div class="academic-grid">
+    <section class="academic-card">
+      <h2>Research Interests</h2>
+      <ul>
+        <li>Statistical methodology</li>
+        <li>Machine learning</li>
+        <li>Data analysis</li>
+        <li>Computational methods for research</li>
+      </ul>
+    </section>
 
-This site is currently being updated with research interests, publications, and selected work.
+    <section class="academic-card">
+      <h2>Education</h2>
+      <p><strong>University of California, Davis</strong><br />PhD in Statistics</p>
+      <p><strong>University of California, Berkeley</strong><br />Master's degree</p>
+      <p><strong>Southern University of Science and Technology</strong><br />Bachelor's degree</p>
+    </section>
+  </div>
+
+  <section class="academic-note">
+    This site is currently being updated with publications, projects, and a full academic CV.
+  </section>
+</div>
