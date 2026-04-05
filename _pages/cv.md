@@ -1,12 +1,10 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 5
-cv_pdf: # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: Academic background and current research profile.
-toc:
-  sidebar: left
+description: Curriculum vitae information will be added soon.
 ---
+
+CV information will be added soon.
