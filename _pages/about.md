@@ -32,24 +32,22 @@ latest_posts:
     I am a PhD student in Statistics at UC Davis. My interests lie broadly in statistics, machine learning, and data-driven research, especially work that combines methodological rigor with practical relevance.
   </p>
 
-  <div class="academic-grid">
-    <section class="academic-card">
-      <h2>Research Interests</h2>
-      <ul>
-        <li>Statistical methodology</li>
-        <li>Machine learning</li>
-        <li>Data analysis</li>
-        <li>Computational methods for research</li>
-      </ul>
-    </section>
+  <section class="academic-section">
+    <h2>Research Interests</h2>
+    <ul>
+      <li>Statistical methodology</li>
+      <li>Machine learning</li>
+      <li>Data analysis</li>
+      <li>Computational methods for research</li>
+    </ul>
+  </section>
 
-    <section class="academic-card">
-      <h2>Education</h2>
-      <p><strong>University of California, Davis</strong><br />PhD in Statistics</p>
-      <p><strong>University of California, Berkeley</strong><br />Master's degree</p>
-      <p><strong>Southern University of Science and Technology</strong><br />Bachelor's degree</p>
-    </section>
-  </div>
+  <section class="academic-section">
+    <h2>Education</h2>
+    <p><strong>University of California, Davis</strong><br />PhD in Statistics</p>
+    <p><strong>University of California, Berkeley</strong><br />Master's degree</p>
+    <p><strong>Southern University of Science and Technology</strong><br />Bachelor's degree</p>
+  </section>
 
   <section class="academic-note">
     This site is currently being updated with publications, projects, and a full academic CV.

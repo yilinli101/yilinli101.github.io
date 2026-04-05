@@ -58,6 +58,10 @@
   .navbar-brand {
     color: var(--global-text-color);
     letter-spacing: -0.02em;
+
+    .font-weight-bold {
+      font-weight: 600 !important;
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
