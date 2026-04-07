@@ -9,13 +9,13 @@ nav_order: 6
 
 This page summarizes courses I have been involved in teaching.
 
-## Undergraduate Courses
+## Teaching Experience
 
 - **Mathematical Statistics**  
-  Undergraduate course in probability and statistical inference.
+  Supported this undergraduate course during my undergraduate studies.
 
 - **STA 013: Elementary Statistics**  
-  Undergraduate introductory statistics course.
+  Supported this undergraduate introductory statistics course during my PhD studies.
 
 - **STA 103: Applied Statistics for Business and Economics**  
-  Undergraduate course covering applied statistical methods for business and economics.
+  Supported this undergraduate course in applied statistics for business and economics during my PhD studies.
