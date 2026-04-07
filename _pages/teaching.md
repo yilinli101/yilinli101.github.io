@@ -1,15 +1,21 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
+title: Teaching
+description: Teaching experience and course support.
+nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+This page summarizes courses I have been involved in teaching.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## Undergraduate Courses
 
-{% include courses.liquid %}
+- **Mathematical Statistics**  
+  Undergraduate course in probability and statistical inference.
+
+- **STA 013: Elementary Statistics**  
+  Undergraduate introductory statistics course.
+
+- **STA 103: Applied Statistics for Business and Economics**  
+  Undergraduate course covering applied statistical methods for business and economics.
