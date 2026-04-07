@@ -11,11 +11,8 @@ This page summarizes courses I have been involved in teaching.
 
 ## Teaching Experience
 
-- **Mathematical Statistics**  
-  Supported this undergraduate course during my undergraduate studies.
+- **During my undergraduate studies**  
+  Supported the undergraduate course **Mathematical Statistics**.
 
-- **STA 013: Elementary Statistics**  
-  Supported this undergraduate introductory statistics course during my PhD studies.
-
-- **STA 103: Applied Statistics for Business and Economics**  
-  Supported this undergraduate course in applied statistics for business and economics during my PhD studies.
+- **During my PhD studies**  
+  Supported **STA 013: Elementary Statistics** and **STA 103: Applied Statistics for Business and Economics**.
