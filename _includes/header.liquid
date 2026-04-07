@@ -51,10 +51,28 @@
             </a>
           </li>
 
+          <li class="nav-item {% if page.permalink == '/publications/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/publications/' | relative_url }}">
+              Publications
+              {% if page.permalink == '/publications/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
+          <li class="nav-item {% if page.permalink == '/teaching/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/teaching/' | relative_url }}">
+              Teaching
+              {% if page.permalink == '/teaching/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
-            {% if p.nav and p.autogen == null %}
+            {% if p.nav and p.autogen == null and p.permalink != '/publications/' and p.permalink != '/teaching/' %}
               {% if p.dropdown %}
                 {% assign has_active_child = false %}
                 {% for child in p.children %}
