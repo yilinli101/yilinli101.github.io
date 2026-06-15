@@ -35,10 +35,10 @@ latest_posts:
   <section class="academic-section">
     <h2>Research Interests</h2>
     <ul>
-      <li>Statistical methodology</li>
-      <li>Machine learning</li>
-      <li>Data analysis</li>
-      <li>Computational methods for research</li>
+      <li>Causal inference</li>
+      <li>Uncertainty estimation</li>
+      <li>Small area estimation</li>
+      <li>Linear mixed models</li>
     </ul>
   </section>
 
