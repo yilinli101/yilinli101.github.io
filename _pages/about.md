@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p><strong>Department of Statistics</strong></p>
     <p>University of California, Davis</p>
-    <p><a href="mailto:chloeliyilin@gmail.com">chloeliyilin@gmail.com</a></p>
+    <p><a href="mailto:ilnli@ucdavis.edu">ilnli@ucdavis.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
