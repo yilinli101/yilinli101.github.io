@@ -12,10 +12,10 @@ profile:
     <p><strong>Department of Statistics</strong></p>
     <p>University of California, Davis</p>
     <p><a href="mailto:ilnli@ucdavis.edu">ilnli@ucdavis.edu</a></p>
-    <p>
-      <a href="https://scholar.google.com/citations?user=GYYeD0wAAAAJ" class="mr-3" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i></a>
-      <a href="https://www.linkedin.com/in/yilin-li-2301b81a0/" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin fa-lg" aria-hidden="true"></i></a>
-    </p>
+    <div class="profile-social-links">
+      <a href="https://scholar.google.com/citations?user=GYYeD0wAAAAJ" class="profile-google-scholar" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i></a>
+      <a href="https://www.linkedin.com/in/yilin-li-2301b81a0/" class="profile-linkedin" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin fa-lg" aria-hidden="true"></i></a>
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

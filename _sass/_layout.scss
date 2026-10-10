@@ -53,6 +53,21 @@ body.sticky-bottom-footer {
       margin-bottom: 0.3rem;
       line-height: 1.45;
     }
+
+    .profile-social-links {
+      display: flex;
+      align-items: center;
+      gap: 0.9rem;
+      margin-top: 0.65rem;
+
+      .profile-google-scholar {
+        color: #4285f4;
+      }
+
+      .profile-linkedin {
+        color: #0a66c2;
+      }
+    }
   }
 }
 
