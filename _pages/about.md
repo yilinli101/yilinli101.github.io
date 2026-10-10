@@ -9,8 +9,6 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Department of Statistics</strong></p>
-    <p>University of California, Davis</p>
     <p><a href="mailto:ilnli@ucdavis.edu">ilnli@ucdavis.edu</a></p>
     <div class="profile-social-links">
       <a href="https://scholar.google.com/citations?user=GYYeD0wAAAAJ" class="profile-google-scholar" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i></a>
