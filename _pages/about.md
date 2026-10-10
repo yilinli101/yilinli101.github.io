@@ -12,6 +12,8 @@ profile:
     <p><strong>Department of Statistics</strong></p>
     <p>University of California, Davis</p>
     <p><a href="mailto:ilnli@ucdavis.edu">ilnli@ucdavis.edu</a></p>
+    <p><a href="https://scholar.google.com/citations?user=GYYeD0wAAAAJ">Google Scholar</a></p>
+    <p><a href="https://www.linkedin.com/in/yilin-li-2301b81a0/">LinkedIn</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
